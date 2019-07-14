@@ -308,8 +308,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Sobre mim
 
-Cursando Engenharia da computação 
-Uerj / Iprj
-20 anos
+#Cursando Engenharia da computação  
+#Uerj / Iprj
+#20 anos
 
 
