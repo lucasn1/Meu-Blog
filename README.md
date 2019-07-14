@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Bem vindo!!
 
-You can use the [editor on GitHub](https://github.com/lucasn1/Meu-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Página criada para o repositório de trabalhos , códigos e relatórios da faculdade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Código de diferenciação Numérica em C .
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+código referente ao trabalho de diferenciação Numérica contendo 3 fórmulas :
+- Progressiva (avançada)
+- Regressiva 
+- Central
 
 ```markdown
 # include <stdio.h>
