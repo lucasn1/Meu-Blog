@@ -9,6 +9,15 @@ código referente ao trabalho de diferenciação Numérica contendo 3 fórmulas 
 - Regressiva 
 - Central
 
+Avaliação : 
+1- Para um funcionamento ,e entendimento, melhor deveria ser usado case e não a estrutura de decisão usada.
+2- Número exagerado de variáveis 
+3- Adotar funções deixaria o código mais limpo
+
+código está funcionando
+
+
+
 ```markdown
 # include <stdio.h>
 # include <conio.h>
