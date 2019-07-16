@@ -299,16 +299,13 @@ void main ()
 }
 
 ```
+### Outros trabalhos
 
 
+### Trabalhos py
 
 
-
-
-
-
-
-
+### trabalhos em C
 
 
 
