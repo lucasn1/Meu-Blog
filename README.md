@@ -300,13 +300,27 @@ void main ()
 
 ```
 ### Outros trabalhos
+```markdown
+
+
+```
 
 
 ### Trabalhos py
+```markdown
+
+
+```
 
 
 ### trabalhos em C
 
+```markdown
+
+
+
+
+```
 
 
 ### Tela de login e senha Python + Tkinter
