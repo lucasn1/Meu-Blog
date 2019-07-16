@@ -298,16 +298,14 @@ void main ()
             }
 }
 
-
-
-
-
-
-
-
-
 ```
 ### Tela de login e senha Python + Tkinter
+
+
+
+
+
+
 ```markdown
 
 from tkinter import *
@@ -334,6 +332,8 @@ bt1.grid(row=2, column=1)
 janela.geometry("200x100+100+100")
 janela.mainloop()
 ```
+
+
 ### Sobre mim
 
 #Cursando Engenharia da computação  
